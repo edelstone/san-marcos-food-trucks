@@ -4,7 +4,7 @@ html, body {
   overflow: hidden;
 }
 
-iframe {
+.map {
   postion: absolute;
   top: 0;
   left: 0;
@@ -23,11 +23,11 @@ iframe {
   color: #fff;
   padding: 0.5rem 0.8rem;
   border-radius: 3px;
-  background: #399787;
+  background: #4d6a79;
   font-size: 0.8rem;
   text-decoration: none;
 }
 
 .attr:hover, .attr:focus {
-  background: #2e796c;
+  background: #3e5561;
 }
