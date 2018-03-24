@@ -27,3 +27,7 @@ iframe {
   font-size: 0.8rem;
   text-decoration: none;
 }
+
+.attr:hover, .attr:focus {
+  background: #2e796c;
+}
