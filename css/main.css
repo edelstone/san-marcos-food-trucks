@@ -12,22 +12,3 @@ html, body {
   height: 100%;
   border: 0;
 }
-
-.attr {
-  position: absolute;
-  right: 1rem;
-  bottom: 1rem;
-  margin: 0;
-  font-family: sans-serif;
-  font-weight: bold;
-  color: #fff;
-  padding: 0.5rem 0.8rem;
-  border-radius: 3px;
-  background: #4d6a79;
-  font-size: 0.8rem;
-  text-decoration: none;
-}
-
-.attr:hover, .attr:focus {
-  background: #3e5561;
-}
